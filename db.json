@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "id": 2,
+      "name": "Dự án 2 update 2",
+      "content": "ahihi",
+      "image": [
+        "https://res.cloudinary.com/dplklfwqn/image/upload/v1676910645/ECMA/sx7m48lemi4rnejaadna.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Dự án 6 update",
+      "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea rem impedit pariatur.",
+      "image": [
+        "https://res.cloudinary.com/dplklfwqn/image/upload/v1676947336/ECMA/avpjxhb8hfbjjbawkndj.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Dự án 7",
+      "content": "hehe",
+      "image": [
+        "https://res.cloudinary.com/dplklfwqn/image/upload/v1676947313/ECMA/sw7o6bhduauyxg5vo831.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Dự án tốt nghiệp",
+      "content": "Website ban hang",
+      "image": [
+        "https://res.cloudinary.com/dplklfwqn/image/upload/v1676950306/ECMA/a54nkorsckdsdrnfc4dm.jpg"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Danh mục 1"
+    },
+    {
+      "id": 2,
+      "name": "Danh mục 2"
+    }
+  ]
+}
