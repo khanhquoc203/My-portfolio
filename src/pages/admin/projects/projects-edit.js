@@ -1,5 +1,5 @@
-import { router, useEffect, useState } from "../../lib";
-import { getProject, updateProject } from "../../api/project";
+import { router, useEffect, useState } from "@/lib";
+import { getProject, updateProject } from "@/api/project";
 import axios from "axios";
 
 const ProjectEdit = ({ id }) => {

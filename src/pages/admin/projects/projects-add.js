@@ -1,7 +1,7 @@
-import { router, useEffect } from "../../lib";
+import { router, useEffect } from "@/lib";
 // import { projects } from "../../data";
 import axios from "axios";
-import { addProject } from "../../api/project";
+import { addProject } from "@/api/project";
 
 const ProjectAdd = () => {
     useEffect(() => {

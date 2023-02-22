@@ -4,6 +4,7 @@
       "id": 2,
       "name": "Dự án 2 update 2",
       "content": "ahihi",
+      "categoryId": 1,
       "image": [
         "https://res.cloudinary.com/dplklfwqn/image/upload/v1676910645/ECMA/sx7m48lemi4rnejaadna.jpg"
       ]
@@ -11,7 +12,8 @@
     {
       "id": 3,
       "name": "Dự án 6 update",
-      "content": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea rem impedit pariatur.",
+      "content": "website ban quan ao",
+      "categoryId": 2,
       "image": [
         "https://res.cloudinary.com/dplklfwqn/image/upload/v1676947336/ECMA/avpjxhb8hfbjjbawkndj.jpg"
       ]
@@ -20,17 +22,19 @@
       "id": 4,
       "name": "Dự án 7",
       "content": "hehe",
+      "categoryId": 2,
       "image": [
         "https://res.cloudinary.com/dplklfwqn/image/upload/v1676947313/ECMA/sw7o6bhduauyxg5vo831.jpg"
       ]
     },
     {
-      "id": 5,
       "name": "Dự án tốt nghiệp",
       "content": "Website ban hang",
+      "categoryId": 3,
       "image": [
-        "https://res.cloudinary.com/dplklfwqn/image/upload/v1676950306/ECMA/a54nkorsckdsdrnfc4dm.jpg"
-      ]
+        "https://res.cloudinary.com/dplklfwqn/image/upload/v1677067011/ECMA/vuuce9gw8jyma3k3szyi.jpg"
+      ],
+      "id": 5
     }
   ],
   "categories": [
@@ -41,6 +45,37 @@
     {
       "id": 2,
       "name": "Danh mục 2"
+    },
+    {
+      "id": 3,
+      "name": "Danh mục 3"
     }
-  ]
+  ],
+  "favourites": [
+    {
+      "id": 4,
+      "name": "Football 1",
+      "content": "a game played between two teams of eleven people, where each team tries to win by kicking a ball into the other team's goal",
+      "image": [
+        "https://res.cloudinary.com/dplklfwqn/image/upload/v1677068484/ECMA/pdsajoundbho0i3hvehr.jpg"
+      ]
+    },
+    {
+      "name": "Basketball",
+      "content": "a game played by two teams of five players who score points by throwing a large ball through an open net hanging from a metal ring",
+      "image": [
+        "https://res.cloudinary.com/dplklfwqn/image/upload/v1677069480/ECMA/vmf3jslm4sq5rt7afyei.jpg"
+      ],
+      "id": 5
+    },
+    {
+      "name": "Volleyball",
+      "content": "a game in which two teams use their hands to hit a large ball backwards and forwards over a high net without allowing the ball to touch the ground",
+      "image": [
+        "https://res.cloudinary.com/dplklfwqn/image/upload/v1677083921/ECMA/msl0zp7hckdq06dbufpv.jpg"
+      ],
+      "id": 6
+    }
+  ],
+  "about": []
 }
